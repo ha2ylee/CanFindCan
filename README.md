@@ -13,7 +13,7 @@
 # 💡 주요 기능
 
 ### 1. 캔 종류 인식
-<img src="https://user-images.githubusercontent.com/76219962/178249823-946f9110-bb56-46da-9abc-b69f31f37ab8.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/76219962/178249823-946f9110-bb56-46da-9abc-b69f31f37ab8.png" width="30%" height="30%">
 
 - 애플리케이션 실행 시 자동으로 웹 뷰 실행
 - 학습된 데이터가 적용된 HTML 기반의 웹 서버
