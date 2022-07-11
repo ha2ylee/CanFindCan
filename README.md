@@ -16,7 +16,7 @@
 # 💡 주요 기능
 
 ### 1. 캔 종류 인식
-<img src="https://user-images.githubusercontent.com/76219962/178251094-0beeabc3-07a7-474e-a6c6-6e9b234cf425.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/76219962/178251094-0beeabc3-07a7-474e-a6c6-6e9b234cf425.png" width="60%" height="60%">
 
 - 애플리케이션 실행 시 자동으로 웹 뷰 실행
 - 학습된 데이터가 적용된 HTML 기반의 웹 서버
@@ -24,8 +24,8 @@
 - 분석 완료 시 음성 안내
 
 ### 2. 유통기한 인식
-<img src="https://user-images.githubusercontent.com/76219962/178251210-c0064a7e-7a8d-407d-b3b1-2c6e69735d64.png" width="50%" height="50%">
-<img src="https://user-images.githubusercontent.com/76219962/178251299-851742ed-9459-4e6c-b8da-874660d5920c.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/76219962/178251210-c0064a7e-7a8d-407d-b3b1-2c6e69735d64.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/76219962/178251299-851742ed-9459-4e6c-b8da-874660d5920c.png" width="60%" height="60%">
 
 - 중앙부에 위치한 카메라 버튼 클릭 시 내장 카메라 실행
 - 카메라로 캔 바닥 촬영
