@@ -7,13 +7,13 @@
 - 카메라로 캔을 비추면 캔의 종류를 분석하고, 캔의 밑바닥을 촬영하면 유통기한을 음성으로 안내
 
 # 💡 프로젝트 구성도
-<img src="https://user-images.githubusercontent.com/76219962/178248651-457a1544-27bd-4b8b-ad78-e3e88259544b.png" width="600px" height="200px">
+<img src="https://user-images.githubusercontent.com/76219962/178248651-457a1544-27bd-4b8b-ad78-e3e88259544b.png" width="600px" height="300px">
 <br/>
 
 # 💡 주요 기능
 
 ### 1. 캔 종류 인식
-<img src="https://user-images.githubusercontent.com/76219962/178249680-806cfeeb-362c-4912-a1b7-3ad2794d77de.png" width="600px" height="200px">
+<img src="https://user-images.githubusercontent.com/76219962/178249823-946f9110-bb56-46da-9abc-b69f31f37ab8.png" width="60%" height="60%">
 
 - 애플리케이션 실행 시 자동으로 웹 뷰 실행
 - 학습된 데이터가 적용된 HTML 기반의 웹 서버
