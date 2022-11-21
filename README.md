@@ -33,3 +33,4 @@
 - 상단 BACK 버튼 클릭 시 캔 음료 인식 기능 재실행
 
 # 💡 유튜브 링크
+https://youtu.be/_G1CdMcqkwQ
